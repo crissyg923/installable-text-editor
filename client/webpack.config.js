@@ -34,8 +34,8 @@ module.exports = () => {
         description: 'Edit your text with ease.',
         background_color: '#20E8B7',
         theme_color: '#20E8B7',
-        start_url: './',
-        publicPath: './',
+        start_url: '/',
+        publicPath: '/',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
