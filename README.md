@@ -4,7 +4,7 @@
 
 [Repo Link](https://github.com/crissyg923/installable-text-editor)
 
-[Deployed Link](https://damp-ravine-90733-ba1a52068a9e.herokuapp.com/)
+[Deployed Link](https://powerful-island-25507-2fbe7a244936.herokuapp.com/)
 
 ## Description
 Text editor application that includes JS syntax highlighting to help guide the user while writing code.  In addition, this application utilizes the functionality of service workers to  cache previously written code and a manifest.json file to make the app installable.
