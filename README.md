@@ -21,7 +21,7 @@ Text editor application that includes JS syntax highlighting to help guide the u
 6. [Questions](#questions)
 
 ## Installation
-Clone the [repo](https://github.com/crissyg923/installable-text-editor).  Run 'npm i' and **npm run start:dev** to run the application on a local host.  Alternatively, to install this  as a user, head to the deployed site at 'insert link here' and use the application as you would any other text ediotr.
+Clone the [repo](https://github.com/crissyg923/installable-text-editor).  Run 'npm i' and **npm run start:dev** to run the application on a local host.  Alternatively, to install this  as a user, head to the [deployed site](https://powerful-island-25507-2fbe7a244936.herokuapp.com/) and use the application as you would any other text ediotr.
 
 ## Usage
 As a developer, you can use this code as a base to building your own text editor or study the files to understand the process of creating an installable app.
